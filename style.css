@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 50px;
+}
+
+header > h1 {
+  width: 20%;
+}
+
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: x-large;
+  list-style-type: none;
+}
+nav {
+  width: 60vw;
+  margin-top: 5px;
+}
+
+.bigImage {
+  width: 95vw;
+  margin: 1rem;
+}
